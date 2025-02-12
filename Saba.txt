@@ -1,12 +1,4 @@
-{
- "outbounds": [
-  {
-   "type": "ssh",
-   "tag": "Saba VIP",
-   "server": "68.183.78.54",
-   "server_port": 22,
-   "user": "lionssh_Saba",
-   "password": "sabanet"
-  }
- ]
-}
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNhYmExIiwNCiAgImFkZCI6ICIyMDkuMTM1LjE3MS4yMzgiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICJmY2MwYTJmYS1lOTg4LTExZWYtOGU5NS04ZmU1ODljY2I2ZGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNhYmEyIiwNCiAgImFkZCI6ICI1MS43NS43NC42MSIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjUwNzc5NTdlLWU5OGEtMTFlZi04Zjg0LTFiZWIyNDg3MGQzYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
